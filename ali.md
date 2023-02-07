@@ -10,6 +10,6 @@
 
 "Button": "JOIN-CHANNEL",
 
-"Show": "on"
+"Show": "off"
 
 }
